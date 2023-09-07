@@ -4,9 +4,9 @@
  *
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
         char myChar[] = "\"Programming is like building a multilingual puzzle";
 	puts(myChar);
-	return(0);
+	return (0);
 }
