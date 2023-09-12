@@ -1,5 +1,11 @@
 #include<stdio.h>
-int (main)
+/**
+* main - Prints putchar
+*
+* Return: Always (Success
+*/
+
+int main(void)
 {
 	printf("_putchar\n");
 
